@@ -63,7 +63,7 @@
     "simplex-noise": "^2.4.0",
     "stackblur": "^1.0.0",
     "styled-components": "^3.4.2",
-    "tone": "^13.4.9",
+    "tone": "^13.8.34",
     "touches": "^1.2.2",
     "triangle-circle-collision": "^1.0.4",
     "tween-chain": "^1.0.0",
